@@ -1,4 +1,4 @@
-# Increasing or decreasing_numbers
+# Increasing or decreasing numbers
 
 In normal mode, typing Ctrl-A will increment the next number, and typing Ctrl-X will decrement the next number. The number can be at the cursor, or to the right of the cursor (on the same line).
 
